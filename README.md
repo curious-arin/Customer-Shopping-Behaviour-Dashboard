@@ -1,4 +1,4 @@
-# 🛍️ Customer-Shopping-Behaviour-Analytics
+# 🛍️ Customer-Shopping-Behaviour-Dashboard
 
 -----
 
